@@ -11,3 +11,4 @@ MOVIES
 back to the future
 matrix
 harry potter
+lord of the rings
